@@ -2,5 +2,9 @@
   {
     "title": "MobileTest",
     "url": "https://github.com/tonipepperonii/aestheticsTestResources/raw/master/mobile.mlmodel"
-  }
+  },
+  {
+    "title": "Inception v3",
+    "url": "https://github.com/tonipepperonii/aestheticsTestResources/raw/master/aesthetics_inception_v3.mlmodel"
+}
 ]
