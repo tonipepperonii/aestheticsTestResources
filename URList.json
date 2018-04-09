@@ -2,5 +2,9 @@
   {
     "title": "MobileTest",
     "url": "https://github.com/tonipepperonii/aestheticsTestResources/raw/master/mobile.mlmodel"
+  },
+  {
+    "title": "SqueezeNet",
+    "url": "https://docs-assets.developer.apple.com/coreml/models/SqueezeNet.mlmodel"
   }
 ]
