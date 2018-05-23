@@ -1,7 +1,7 @@
-In der aesthetics.config.json können URLs zu .mlmodel Dateien eingetragen werden.
+In der aesthetics.config.json können URLs eingetragen werden, die auf .mlmodel Dateien verweisen.
 Die angegebenen .mlmodel Dateien werden von der iOS App Aesthetics genutzt.
 
-Die URLs sind einzutragen wie im folgenden Beispiel zu sehen:
+Die URLs sind nach folgendem Beispiel einzutragen:
 
 [
   {
@@ -17,3 +17,5 @@ Die URLs sind einzutragen wie im folgenden Beispiel zu sehen:
 Der Titel erscheint in der App als Name für das Modell.
 
 Um ein Modell aus der App zu entfernen, kann einfach das entsprechende Element in dem Array gelöscht werden.
+
+Ansprechpartner: Ole Sperlich
