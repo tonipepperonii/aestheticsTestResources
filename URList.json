@@ -2,5 +2,9 @@
   {
     "title": "MobileTest",
     "url": "https://github.com/tonipepperonii/aestheticsTestResources/raw/master/mobile.mlmodel"
+  },
+  {
+    "title": "Inception v3",
+    "url": "https://docs-assets.developer.apple.com/coreml/models/Inceptionv3.mlmodel"
   }
 ]
